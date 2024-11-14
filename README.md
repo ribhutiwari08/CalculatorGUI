@@ -4,7 +4,9 @@ Key Features
 
 1. Modern Dark Theme: 
    - The calculator has a dark gray background and contrasting white text, which is gentle on the eyes and offers a modern, clean look.
-   
+
+![](./I1.png)
+![](./I2.png)
 2. Responsive Button Layout:
    - Buttons are clearly labeled and arranged in a standard calculator layout, making it intuitive for users to find and press numbers and operators.
    - The "=" button is highlighted in orange to emphasize its function of calculating results.
